@@ -1,0 +1,12 @@
+typeof 1
+"number"
+typeof -2
+"number"
+typeof 3.147
+"number"
+typeof 0
+"number"
+0/0
+NaN
+100/0
+Infinity
